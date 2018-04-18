@@ -9,7 +9,7 @@
 
 ## Map Tools
 
-[Inkarnate](https://inkarnate.com): A great tool for creating tools.
+[Inkarnate](https://inkarnate.com): A great tool for creating world/city map.
 
 [World Anvil](https://www.worldanvil.com/): Worldbuilding tools for Game Masters Storytellers and worldbuilding lovers.
 
